@@ -1,2 +1,2 @@
 # AZchar
-Azerbaijani handwritten letter recognition with CNN
+> Azerbaijani handwritten letter recognition with CNN
